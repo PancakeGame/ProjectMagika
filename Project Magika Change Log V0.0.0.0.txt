@@ -1,0 +1,19 @@
+-Added Magika Casting System
+
+-Preliminary Spells
+
+Todo:
+
+-Add Defense and Support Spells
+
+-Change Player Model
+
+-Create Spell Animations
+
+-Create Level
+
+-Remove Spells on Ground Hit
+
+-Update UI
+
+-Add Grimoire
