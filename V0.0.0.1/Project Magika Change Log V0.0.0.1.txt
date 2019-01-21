@@ -1,0 +1,18 @@
+Project Magika Change Log V0.0.0.1
+
+-Remove Spells on Ground Hit
+
+-Fixed Map Error
+Todo:
+
+-Add Defense and Support Spells
+
+-Change Player Model
+
+-Create Spell Animations
+
+-Create Level
+
+-Update UI
+
+-Add Grimoire
